@@ -1,0 +1,4 @@
+This is a sample line with logical operators: && .
+Another line contains ! and | operators.
+Let's include ^ operator as well in this line.
+This line has no logical operators.
